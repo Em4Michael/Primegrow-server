@@ -20,7 +20,8 @@
     "flutterwave-node-v3": "^1.1.10",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.5.2",
-    "twilio": "^5.2.2"
+    "twilio": "^5.2.2",
+    "ws": "^8.18.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
